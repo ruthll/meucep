@@ -1,8 +1,8 @@
 {
-  "name": "blank",
-  "version": "0.0.1",
+  "name": "meucep-app",
+  "version": "1.0.0",
   "author": "Ionic Framework",
-  "homepage": "https://ionicframework.com/",
+  "homepage": "https://github.com/ruthll/meucep.git",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -62,7 +62,7 @@
     "tslint": "~5.17.0",
     "typescript": "~3.1.6"
   },
-  "description": "An Ionic project",
+  "description": "Criação de app para endereços",
   "cordova": {
     "plugins": {
       "cordova-plugin-whitelist": {},
